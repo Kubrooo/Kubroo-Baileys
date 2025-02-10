@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables (jika kamu menggunakan file .env)
+.env
+
+# Build output
+dist/
+build/
+
+# Folder untuk sesi autentikasi (misalnya, Baileys auth files)
+auth_info/
+
+# Folder sementara (temp)
+src/temp/
+
+# Abaikan folder utils
+src/utils/
