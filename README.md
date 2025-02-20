@@ -74,7 +74,7 @@ Ingin berkontribusi? Ikuti langkah berikut:
 ## 📞 Kontak & Dukungan
 
 📢 **Owner:** [Galih Tri Ardiansyah](galihtriardiansyah@gmail.com)  
-🌍 **Channel WhatsApp:** [That One Erpeel Guy]([https://wa.me/your-channel-link](https://whatsapp.com/channel/0029Vb279pQChq6Ehbx4su3c))  
+🌍 **Channel WhatsApp:** [That One Erpeel Guy]([https://wa.me/your-channel-link](https://whatsapp.com/channel/0029Vb279pQChq6Ehbx4su3c) 
 📌 **GitHub Issues:** [Laporkan Bug](https://github.com/your-username/Kubroo-Baileys/issues)
 
 ---
