@@ -18,6 +18,3 @@ auth_info/
 
 # Folder sementara (temp)
 src/temp/
-
-# Abaikan folder utils
-src/utils/
