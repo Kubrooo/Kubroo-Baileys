@@ -4,12 +4,12 @@
 
 ## ✨ Fitur Utama
 
-✅ **Menu Utama** - Menampilkan daftar perintah yang tersedia.
-✅ **Food Buff Guide** - Panduan lengkap untuk buff makanan di Toram Online.
-✅ **Tag All** - Mention semua anggota grup tanpa menampilkan nomor.
-✅ **Kustom Respon** - Kirim pesan otomatis berdasarkan kata kunci tertentu.
-✅ **DeepSeek AI** - Chatbot berbasis OpenRouter API.
-✅ **Informasi Owner & Bot** - Detail kontak & deskripsi bot.
+✅ **Menu Utama** - Menampilkan daftar perintah yang tersedia.<br>
+✅ **Food Buff Guide** - Panduan lengkap untuk buff makanan di Toram Online.<br>
+✅ **Tag All** - Mention semua anggota grup tanpa menampilkan nomor.<br>
+✅ **Kustom Respon** - Kirim pesan otomatis berdasarkan kata kunci tertentu. <br>
+✅ **DeepSeek AI** - Chatbot berbasis OpenRouter API. <br>
+✅ **Informasi Owner & Bot** - Detail kontak & deskripsi bot. <br>
 
 ## 🛠️ Instalasi & Penggunaan
 
