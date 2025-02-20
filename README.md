@@ -1,7 +1,5 @@
 # Kubroo Baileys Bot
 
-![Kubroo Baileys](https://your-image-link.com/banner.jpg)
-
 🚀 **Kubroo Baileys** adalah bot WhatsApp berbasis **Baileys (WhiskeySockets)** yang dirancang untuk membantu komunitas dalam **game MMORPG Toram Online** serta memberikan berbagai fitur interaktif lainnya.
 
 ## ✨ Fitur Utama
