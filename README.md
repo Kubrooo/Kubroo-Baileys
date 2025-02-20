@@ -75,7 +75,7 @@ Ingin berkontribusi? Ikuti langkah berikut:
 
 📢 **Owner:** [Galih Tri Ardiansyah](galihtriardiansyah@gmail.com)  
 🌍 **Channel WhatsApp:** [That One Erpeel Guy](https://whatsapp.com/channel/0029Vb279pQChq6Ehbx4su3c)  
-📌 **GitHub Issues:** [Laporkan Bug](https://github.com/your-username/Kubroo-Baileys/issues)
+📌 **GitHub Issues:** [Laporkan Bug](https://github.com/Kubrooo/Kubroo-Baileys/issues)
 
 ---
 ⚡ **Kubroo Baileys** - "Membantu komunitas MMORPG lebih mudah!"
