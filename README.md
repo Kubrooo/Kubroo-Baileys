@@ -15,7 +15,7 @@
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/your-username/Kubroo-Baileys.git
+git clone https://github.com/Kubrooo/Kubroo-Baileys.git
 cd Kubroo-Baileys
 ```
 
