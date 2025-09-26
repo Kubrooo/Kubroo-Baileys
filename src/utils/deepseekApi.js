@@ -2,8 +2,6 @@ import 'dotenv/config';
 import axios from 'axios';
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const REFERER_URL = "YOUR_SITE_URL"; // Bisa diisi atau kosong
-const SITE_NAME = "YOUR_SITE_NAME"; // Bisa diisi atau kosong
 
 export const askDeepSeek = async (prompt) => {
     try {
@@ -13,7 +11,7 @@ export const askDeepSeek = async (prompt) => {
                 {
                     "role": "user",
                     "content": prompt.trim()
-                }
+                } 
             ]
         },{
             headers:{

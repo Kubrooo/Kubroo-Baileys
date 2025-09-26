@@ -10,7 +10,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.13",
+    "@whiskeysockets/baileys": "^7.0.0-rc.3",
     "axios": "^1.7.9",
     "chalk": "^5.4.1",
     "dotenv": "^16.4.7",

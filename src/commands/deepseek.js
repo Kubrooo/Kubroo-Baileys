@@ -4,18 +4,14 @@ export const handleDeepSeek = async (client,chat, message) => {
     try {
         const chatId = chat.key.remoteJid;
 
-        // Cek apakah message.body ada
         if (!message) {
             console.error("❌ Error: message.body tidak ditemukan!");
             return;
+        }else{
+            console.log
         }
 
-        console.log('✅ handleDeepSeek terpanggil dengan pesan:', message);
-
-        console.log('🔍 Query yang dikirim ke DeepSeek:', message);
-
         const response = await askDeepSeek(message);
-        console.log('📩 Respon dari DeepSeek:', response);  
         
         await client.sendMessage(chatId, { text: response },{ quoted: chat});
     } catch (error) {
