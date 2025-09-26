@@ -1,15 +1,13 @@
 # Kubroo Baileys Bot
 
-🚀 **Kubroo Baileys** adalah bot WhatsApp berbasis **Baileys (WhiskeySockets)** yang dirancang untuk membantu komunitas dalam **game MMORPG Toram Online** serta memberikan berbagai fitur interaktif lainnya.
+🚀 **Kubroo Baileys** Bot WhatsApp berbasis Baileys dengan integrasi DeepSeek AI.<br>
+      Didesain agar mudah digunakan untuk percakapan otomatis, menjawab pertanyaan, serta menambahkan fitur custom lain sesuai kebutuhan.
 
 ## ✨ Fitur Utama
 
-✅ **Menu Utama** - Menampilkan daftar perintah yang tersedia.<br>
-✅ **Food Buff Guide** - Panduan lengkap untuk buff makanan di Toram Online.<br>
-✅ **Tag All** - Mention semua anggota grup tanpa menampilkan nomor.<br>
-✅ **Kustom Respon** - Kirim pesan otomatis berdasarkan kata kunci tertentu. <br>
-✅ **DeepSeek AI** - Chatbot berbasis OpenRouter API. <br>
-✅ **Informasi Owner & Bot** - Detail kontak & deskripsi bot. <br>
+- Integrasi DeepSeek AI untuk chat otomatis.
+- Auto respon berdasarkan keyword tertentu.
+- Mudah dikembangkan dengan struktur command terpisah.
 
 ## 🛠️ Instalasi & Penggunaan
 
@@ -39,14 +37,8 @@ npm start
 ## 🔧 Konfigurasi
 
 - **DeepSeek AI** (OpenRouter): Atur API key di `.env`.
-- **File Media**: Simpan gambar di `./src/assets/`.
-- **Command Customization**: Edit file di `./src/commands/`.
 
 ## 🖼️ Styling & Preview
-
-- **Gaya Pengiriman Pesan**:
-  - Gambar dengan teks: `image + caption`
-  - Link preview: `externalAdReply`
 
 ```javascript
 await client.sendMessage(chatId, {
